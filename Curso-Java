@@ -10,3 +10,15 @@ Por conta disso, é preciso estar preparado para um novo processo de alfabetiza�
 -Saber construir algoritmos.
 -Ter noções de um destes sistemas operacionais: MS-DOS, Windows, Linux, MacOS.
 -Dominar conceitos básicos de computação.
+
+**Histótia do java**
+https://www.youtube.com/watch?v=sTX0UEplF54&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR
+
+O que é o Java?
+
+É uma linguagem de programação orientada à objeto.
+a linguagem java foi criada na na sun microsystem, nos anos de 1990 por James Gosling e uma equipe de programadores.
+
+As linguagens convencionais utilizam compiladores para gera códigos executáveis por meo de códigos fontes desenvolvidos por profissionais de programação.
+Já a linguagem de programação java orinentada à objeto é compilada por um processo diferente.
+A compilação java, depende da conversão em linguagem de máquina por meio do bytecode. 
